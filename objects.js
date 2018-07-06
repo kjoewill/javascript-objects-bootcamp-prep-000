@@ -1,2 +1,2 @@
-var playlist = new Object({Williams: "Hey Steve!"})
+var playlist = {Williams: "Hey Steve!"}
 console.log(">>>>>>>>>>>>>" + playlist)
