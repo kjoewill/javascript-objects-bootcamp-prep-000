@@ -1,2 +1,2 @@
-var playlist = {williams: "Hey Steve!"}
+var playlist = {williams: 'Hey Steve!'}
 console.log(">>>>>>>>>>>>>" + playlist)
